@@ -1,8 +1,1 @@
-body{margin:0;font-family:Poppins;background:#fff0e6;}
-.hero{background:#ff5500;color:#fff;padding:20px;text-align:center;font-size:24px;font-weight:700;}
-.wrap{display:flex;gap:40px;padding:40px;}
-.prod{width:450px;border-radius:16px;box-shadow:0 4px 20px rgba(0,0,0,0.2);}
-.price{font-size:30px;font-weight:700;} .price span{text-decoration:line-through;color:#666;}
-.cta{background:#ff5500;border:0;padding:16px 32px;color:#fff;border-radius:12px;font-size:20px;margin:20px 0;animation:pulse 2s infinite;}
-.bubble{background:#fff;padding:12px;border-radius:20px;margin:8px 0;box-shadow:0 2px 10px rgba(0,0,0,0.1);}
-@keyframes pulse{0%{transform:scale(1)}50%{transform:scale(1.05)}100%{transform:scale(1)}}
+body{font-family:Arial;}
